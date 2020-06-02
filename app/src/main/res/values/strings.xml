@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebase Database</string>
+    <string name="txtView_upload_title">Store/Retrieve Data</string>
+    <string name="editText_UserEmail">Enter Email</string>
+    <string name="editText_Password">Enter Password</string>
+    <string name="txt_password">Enter Password</string>
+    <string name="btn_Upload">Upload</string>
+    <string name="btn_retrieve">Retrieve Data</string>
+</resources>
